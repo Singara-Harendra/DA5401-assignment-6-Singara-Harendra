@@ -1,3 +1,10 @@
+## 👨‍💻 Author  
+
+Name : **Singara Harendra** 
+
+Roll Number : DA25M028
+
+
 # Missing Data Imputation via Regression for Credit Card Default Prediction
 
 This project explores and compares different strategies for handling missing data in the context of a credit card default risk assessment model. The primary goal is to determine the most effective imputation technique by evaluating its impact on the performance of a downstream classification model.
